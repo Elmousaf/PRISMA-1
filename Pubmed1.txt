@@ -1,0 +1,1042 @@
+1: Huang X, Wang H, She C, Feng J, Liu X, Hu X, Chen L, Tao Y. Artificial
+intelligence promotes the diagnosis and screening of diabetic retinopathy. Front
+Endocrinol (Lausanne). 2022 Sep 29;13:946915. doi: 10.3389/fendo.2022.946915.
+PMID: 36246896; PMCID: PMC9559815.
+
+2: Ellahham S. Artificial Intelligence: The Future for Diabetes Care. Am J Med.
+2020 Aug;133(8):895-900. doi: 10.1016/j.amjmed.2020.03.033. Epub 2020 Apr 20.
+PMID: 32325045.
+
+3: Meder B, Asselbergs FW, Ashley E. Artificial intelligence to improve
+cardiovascular population health. Eur Heart J. 2025 May 21;46(20):1907-1916.
+doi: 10.1093/eurheartj/ehaf125. PMID: 40106837; PMCID: PMC12093147.
+
+4: Stehlik J, Schmalfuss C, Bozkurt B, Nativi-Nicolau J, Wohlfahrt P, Wegerich
+S, Rose K, Ray R, Schofield R, Deswal A, Sekaric J, Anand S, Richards D, Hanson
+H, Pipke M, Pham M. Continuous Wearable Monitoring Analytics Predict Heart
+Failure Hospitalization: The LINK-HF Multicenter Study. Circ Heart Fail. 2020
+Mar;13(3):e006513. doi: 10.1161/CIRCHEARTFAILURE.119.006513. Epub 2020 Feb 25.
+PMID: 32093506.
+
+5: Murray EC, Delles C, Orzechowski P, Renc P, Sitek A, Wagenaar J, Guzik TJ.
+Vascular phenotypes in early hypertension. J Hum Hypertens. 2023
+Oct;37(10):898-906. doi: 10.1038/s41371-022-00794-7. Epub 2022 Dec 17. PMID:
+36528682; PMCID: PMC9758678.
+
+6: Li HZ, Boulanger P. A Survey of Heart Anomaly Detection Using Ambulatory
+Electrocardiogram (ECG). Sensors (Basel). 2020 Mar 6;20(5):1461. doi:
+10.3390/s20051461. PMID: 32155930; PMCID: PMC7085598.
+
+7: Noseworthy PA, Attia ZI, Behnken EM, Giblon RE, Bews KA, Liu S, Gosse TA,
+Linn ZD, Deng Y, Yin J, Gersh BJ, Graff-Radford J, Rabinstein AA, Siontis KC,
+Friedman PA, Yao X. Artificial intelligence-guided screening for atrial
+fibrillation using electrocardiogram during sinus rhythm: a prospective non-
+randomised interventional trial. Lancet. 2022 Oct 8;400(10359):1206-1212. doi:
+10.1016/S0140-6736(22)01637-3. Epub 2022 Sep 27. PMID: 36179758.
+
+8: Guess M, Zavanelli N, Yeo WH. Recent Advances in Materials and Flexible
+Sensors for Arrhythmia Detection. Materials (Basel). 2022 Jan 18;15(3):724. doi:
+10.3390/ma15030724. PMID: 35160670; PMCID: PMC8836661.
+
+9: Mortazavi BJ, Downing NS, Bucholz EM, Dharmarajan K, Manhapra A, Li SX,
+Negahban SN, Krumholz HM. Analysis of Machine Learning Techniques for Heart
+Failure Readmissions. Circ Cardiovasc Qual Outcomes. 2016 Nov;9(6):629-640. doi:
+10.1161/CIRCOUTCOMES.116.003039. Epub 2016 Nov 8. PMID: 28263938; PMCID:
+PMC5459389.
+
+10: Wongvibulsin S, Martin SS, Steinhubl SR, Muse ED. Connected Health
+Technology for Cardiovascular Disease Prevention and Management. Curr Treat
+Options Cardiovasc Med. 2019 May 18;21(6):29. doi: 10.1007/s11936-019-0729-0.
+PMID: 31104157; PMCID: PMC7263827.
+
+11: Gomez-Garcia CA, Askar-Rodriguez M, Velasco-Medina J. Platform for
+Healthcare Promotion and Cardiovascular Disease Prevention. IEEE J Biomed Health
+Inform. 2021 Jul;25(7):2758-2767. doi: 10.1109/JBHI.2021.3051967. Epub 2021 Jul
+27. PMID: 33449888.
+
+12: Victor OA, Chen Y, Ding X. Non-Invasive Heart Failure Evaluation Using
+Machine Learning Algorithms. Sensors (Basel). 2024 Mar 31;24(7):2248. doi:
+10.3390/s24072248. PMID: 38610459; PMCID: PMC11014006.
+
+13: Lee S, Lee HC, Chu YS, Song SW, Ahn GJ, Lee H, Yang S, Koh SB. Deep learning
+models for the prediction of intraoperative hypotension. Br J Anaesth. 2021
+Apr;126(4):808-817. doi: 10.1016/j.bja.2020.12.035. Epub 2021 Feb 6. PMID:
+33558051.
+
+14: Almujally NA, Aljrees T, Saidani O, Umer M, Faheem ZB, Abuzinadah N,
+Alnowaiser K, Ashraf I. Monitoring Acute Heart Failure Patients Using Internet-
+of-Things-Based Smart Monitoring System. Sensors (Basel). 2023 May
+9;23(10):4580. doi: 10.3390/s23104580. PMID: 37430494; PMCID: PMC10221603.
+
+15: Chen YH, Sawan M. Trends and Challenges of Wearable Multimodal Technologies
+for Stroke Risk Prediction. Sensors (Basel). 2021 Jan 11;21(2):460. doi:
+10.3390/s21020460. PMID: 33440697; PMCID: PMC7827415.
+
+16: Gaona GA, Kassamali AA, Isakadze N, Martin SS. Harnessing Wearables and
+Digital Technologies to Decode the Cardiovascular Exposome. Methodist Debakey
+Cardiovasc J. 2024 Nov 5;20(5):59-70. doi: 10.14797/mdcvj.1459. PMID: 39525376;
+PMCID: PMC11545923.
+
+17: Antoun I, Abdelrazik A, Eldesouky M, Li X, Layton GR, Zakkar M, Somani R, Ng
+GA. Artificial intelligence in atrial fibrillation: emerging applications,
+research directions and ethical considerations. Front Cardiovasc Med. 2025 Jun
+24;12:1596574. doi: 10.3389/fcvm.2025.1596574. PMID: 40630898; PMCID:
+PMC12234536.
+
+18: Alyacoub R. Artificial intelligence in heart failure - a comprehensive
+literature review. Cardiol J. 2025;32(6):655-665. doi: 10.5603/cj.104365. Epub
+2025 Oct 14. PMID: 41085337; PMCID: PMC12782558.
+
+19: Țica O, Champsi A, Duan J, Țica O. Artificial Intelligence in the Diagnosis
+and Management of Atrial Fibrillation. Diagnostics (Basel). 2025 Oct
+11;15(20):2561. doi: 10.3390/diagnostics15202561. PMID: 41153234; PMCID:
+PMC12563052.
+
+20: Spethmann S, Hindricks G, Koehler K, Stoerk S, Angermann CE, Böhm M, Assmus
+B, Winkler S, Möckel M, Mittermaier M, Lelgemann M, Reuter D, Bosch R, Albrecht
+A, von Haehling S, Helms TM, Sack S, Bekfani T, Gröschel JW, Koehler M, Melzer
+C, Wintrich J, Zippel-Schultz B, Ertl G, Vogelmeier C, Dagres N, Zernikow J,
+Koehler F. Telemonitoring for Chronic Heart Failure: Narrative Review of the
+20-Year Journey From Concept to Standard Care in Germany. J Med Internet Res.
+2024 Dec 4;26:e63391. doi: 10.2196/63391. PMID: 39631073; PMCID: PMC11656115.
+
+21: Vallée A. Digital twins for cardiovascular diseases: towards personalised
+and sustainable care. Acta Cardiol. 2025 Nov;80(9):1055-1062. doi:
+10.1080/00015385.2025.2569027. Epub 2025 Oct 6. PMID: 41047990.
+
+22: Shen S, Qi W, Li S, Zeng J, Liu X, Zhu X, Dong C, Wang B, Xu Q, Cao S.
+Mapping the landscape of machine learning in chronic disease management: A
+comprehensive bibliometric study. Digit Health. 2025 Jul
+23;11:20552076251361614. doi: 10.1177/20552076251361614. PMID: 40727621; PMCID:
+PMC12301648.
+
+23: Naushad Z, Malik J, Mishra AK, Singh S, Shrivastav D, Sharma CK, Verma VV,
+Pal RK, Roy B, Sharma VK. Artificial Intelligence in Cardiovascular Health:
+Insights into Post-COVID Public Health Challenges. High Blood Press Cardiovasc
+Prev. 2025 Sep;32(5):475-494. doi: 10.1007/s40292-025-00738-5. Epub 2025 Sep 16.
+PMID: 40956375.
+
+24: Duncker D, Ding WY, Etheridge S, Noseworthy PA, Veltmann C, Yao X, Bunch TJ,
+Gupta D. Smart Wearables for Cardiac Monitoring-Real-World Use beyond Atrial
+Fibrillation. Sensors (Basel). 2021 Apr 5;21(7):2539. doi: 10.3390/s21072539.
+PMID: 33916371; PMCID: PMC8038592.
+
+25: Gao Y, Moayedi Y, Foroutan F, Verma B, Kim B, Luca E, Brum M, Brahmbhatt DH,
+Duhamel J, Simard A, McIntosh C, Ross HJ. Remote monitoring of heart failure
+exacerbations using a smartwatch. Nat Med. 2026 Mar;32(3):924-933. doi:
+10.1038/s41591-026-04247-3. Epub 2026 Mar 20. PMID: 41862772; PMCID:
+PMC13004685.
+
+26: Lopes A, Mastracci TM. Blood pressure monitoring is key in aortic
+dissection. J Cardiovasc Surg (Torino). 2025 Jun;66(3):247-257. doi:
+10.23736/S0021-9509.25.13352-1. Epub 2025 May 28. PMID: 40433737.
+
+27: Aziz S, A M Ali A, Aslam H, A Abd-Alrazaq A, AlSaad R, Alajlani M, Ahmad R,
+Khalil L, Ahmed A, Sheikh J. Wearable Artificial Intelligence for Sleep
+Disorders: Scoping Review. J Med Internet Res. 2025 May 6;27:e65272. doi:
+10.2196/65272. PMID: 40327852; PMCID: PMC12093076.
+
+28: Ullah M, Hamayun S, Wahab A, Khan SU, Rehman MU, Haq ZU, Rehman KU, Ullah A,
+Mehreen A, Awan UA, Qayum M, Naeem M. Smart Technologies used as Smart Tools in
+the Management of Cardiovascular Disease and their Future Perspective. Curr
+Probl Cardiol. 2023 Nov;48(11):101922. doi: 10.1016/j.cpcardiol.2023.101922.
+Epub 2023 Jul 10. PMID: 37437703.
+
+29: Pramukantoro ES, Gofuku A. A Heartbeat Classifier for Continuous Prediction
+Using a Wearable Device. Sensors (Basel). 2022 Jul 6;22(14):5080. doi:
+10.3390/s22145080. PMID: 35890769; PMCID: PMC9320854.
+
+30: Nigar N, Jaleel A, Islam S, Shahzad MK, Affum EA. IoMT Meets Machine
+Learning: From Edge to Cloud Chronic Diseases Diagnosis System. J Healthc Eng.
+2023 Jun 1;2023:9995292. doi: 10.1155/2023/9995292. PMID: 37304462; PMCID:
+PMC10250092.
+
+31: Kandi SR, Khera R, Rajagopalan S, Neeland IJ. AI in Adipose Imaging:
+Revolutionizing Visceral Adipose Tissue, Ectopic Fat, and Cardiovascular Risk
+Assessment. Curr Atheroscler Rep. 2025 Oct 9;27(1):101. doi:
+10.1007/s11883-025-01356-1. PMID: 41068345; PMCID: PMC12511144.
+
+32: Rahman Z, Nazim A, Mroke P, Ali K, Allam MDP, Mahato A, Maheshwari M, Cruz
+CS, Baig I, Calderon Martinez E. Long-Term Management of Sleep Apnea-Hypopnea
+Syndrome: Efficacy and Challenges of Continuous Positive Airway Pressure
+Therapy-A Narrative Review. Med Sci (Basel). 2024 Dec 30;13(1):4. doi:
+10.3390/medsci13010004. PMID: 39846699; PMCID: PMC11755547.
+
+33: Restrepo Tique M, Araque O, Sanchez-Echeverri LA. Technological Advances in
+the Diagnosis of Cardiovascular Disease: A Public Health Strategy. Int J Environ
+Res Public Health. 2024 Aug 16;21(8):1083. doi: 10.3390/ijerph21081083. PMID:
+39200692; PMCID: PMC11354672.
+
+34: Lim J, Han D, Chon KH. QRS-centric beat-wise atrial fibrillation detection
+in ECG signals using deep neural networks. Comput Biol Med. 2025 Jun;192(Pt
+B):110282. doi: 10.1016/j.compbiomed.2025.110282. Epub 2025 May 15. PMID:
+40378565; PMCID: PMC12182906.
+
+35: Belenkov YN, Kozhevnikova MV, Khabarova NV, Ilgisonis IS, Korobkova EO. The
+Role of Artificial Intelligence in Cardiology. Kardiologiia. 2025 Feb
+28;65(2):3-16. Russian, English. doi: 10.18087/cardio.2025.2.n2879. PMID:
+40055902.
+
+36: Karthikeyini HM, Barsoum M, Venkatesan T, Challa MSR. Role of Artificial
+Intelligence in cardiology - A systematic review. Ig Sanita Pubbl. 2025 Sep-
+Oct;98(5):273-284. PMID: 41385467.
+
+37: Ganti VG, Gazi AH, An S, Srivatsa AV, Nevius BN, Nichols CJ, Carek AM, Fares
+M, Abdulkarim M, Hussain T, Greil FG, Etemadi M, Inan OT, Tandon A. Wearable
+Seismocardiography-Based Assessment of Stroke Volume in Congenital Heart
+Disease. J Am Heart Assoc. 2022 Sep 20;11(18):e026067. doi:
+10.1161/JAHA.122.026067. Epub 2022 Sep 14. PMID: 36102243; PMCID: PMC9683676.
+
+38: Hsieh PN, Singh JP. Rhythm-Ready: Harnessing Smart Devices to Detect and
+Manage Arrhythmias. Curr Cardiol Rep. 2024 Dec;26(12):1385-1391. doi:
+10.1007/s11886-024-02135-1. Epub 2024 Oct 18. PMID: 39422821.
+
+39: Piccini JP, Russo AM, Sharma PS, Kron J, Tzou W, Sauer W, Park DS,
+Birgersdotter-Green U, Frankel DS, Healey JS, Hummel J, Koruth J, Linz D, Mittal
+S, Nair DG, Nattel S, Noseworthy PA, Steinberg BA, Trayanova NA, Wan EY, Wissner
+E, Zeitler EP, Wang PJ. Advances in Cardiac Electrophysiology. Circ Arrhythm
+Electrophysiol. 2022 Dec;15(12):e009911. doi: 10.1161/CIRCEP.121.009911. Epub
+2022 Nov 28. PMID: 36441565.
+
+40: Alam R, Aguirre AD, Stultz CM. QTNet: Deep Learning for Estimating QT
+Intervals Using a Single Lead ECG. Annu Int Conf IEEE Eng Med Biol Soc. 2023
+Jul;2023:1-4. doi: 10.1109/EMBC40787.2023.10341204. PMID: 38261472.
+
+41: Labovitz DL, Shafner L, Reyes Gil M, Virmani D, Hanina A. Using Artificial
+Intelligence to Reduce the Risk of Nonadherence in Patients on Anticoagulation
+Therapy. Stroke. 2017 May;48(5):1416-1419. doi: 10.1161/STROKEAHA.116.016281.
+Epub 2017 Apr 6. PMID: 28386037; PMCID: PMC5432369.
+
+42: Ruiz-Barroso P, Castro FM, Miranda J, Constantinescu DA, Atienza D, Guil N.
+FADE: Forecasting for anomaly detection on ECG. Comput Methods Programs Biomed.
+2025 Jul;267:108780. doi: 10.1016/j.cmpb.2025.108780. Epub 2025 Apr 22. PMID:
+40300434.
+
+43: Estêvão MD, Fernandes MT, De Sousa-Coelho AL, Espírito-Santo M, Nascimento
+T. Telehealth for Integrated Cardiovascular and Diabetes Management: A Scoping
+Review. J Diabetes Res. 2025 Dec 2;2025:1093671. doi: 10.1155/jdr/1093671. PMID:
+41376826; PMCID: PMC12688643.
+
+44: Mehmood A, Sarouji A, Rahman MMU, Al-Naffouri TY. Your smartphone could act
+as a pulse-oximeter and as a single-lead ECG. Sci Rep. 2023 Nov 6;13(1):19277.
+doi: 10.1038/s41598-023-45933-3. PMID: 37935806; PMCID: PMC10630323.
+
+45: Matthews J, Soltis I, Villegas-Downs M, Peters TA, Fink AM, Kim J, Zhou L,
+Romero L, McFarlin BL, Yeo WH. Cloud-Integrated Smart Nanomembrane Wearables for
+Remote Wireless Continuous Health Monitoring of Postpartum Women. Adv Sci
+(Weinh). 2024 Apr;11(13):e2307609. doi: 10.1002/advs.202307609. Epub 2024 Jan
+26. PMID: 38279514; PMCID: PMC10987106.
+
+46: Toro S, Patel K, Guha A. Destination LVAD therapy in the current era of the
+heart transplant allocation system. Curr Opin Cardiol. 2023 May 1;38(3):275-279.
+doi: 10.1097/HCO.0000000000001043. PMID: 37016997.
+
+47: Jahnavi D, Dash A, Bs R, Ghosh N, Patra A, Mandana KM, Khandelwal S. Non-
+invasive Coronary Artery Disease Screening Based on Electrocardiogram
+Characteristics and Clinical Risk Factors. Annu Int Conf IEEE Eng Med Biol Soc.
+2023 Jul;2023:1-4. doi: 10.1109/EMBC40787.2023.10340892. PMID: 38083194.
+
+48: Tran HH, Thu A, Fuertes A, Twayana AR, Mahadevaiah A, Mehta KA, James M,
+Basta M, Weissman S, Frishman WH, Aronow WS. Electrocardiogram-Based Artificial
+Intelligence for Detection of Low Ejection Fraction: A Contemporary Review.
+Cardiol Rev. 2025 Jun 23. doi: 10.1097/CRD.0000000000000975. Epub ahead of
+print. PMID: 40548850.
+
+49: Tetaj N, Segreti A, Piccirillo F, Ferro A, Ligorio V, Spagnolo A, Pelullo M,
+Crispino SP, Grigioni F. AI-Enabled Sensor Technologies for Remote Arrhythmic
+Monitoring in High-Risk Cardiomyopathy Genotypes. Sensors (Basel). 2026 Mar
+26;26(7):2078. doi: 10.3390/s26072078. PMID: 41977862; PMCID: PMC13075123.
+
+50: Moghadam MC, Abad EMK, Bagherzadeh N, Ramsingh D, Li GP, Kain ZN. A machine-
+learning approach to predicting hypotensive events in ICU settings. Comput Biol
+Med. 2020 Mar;118:103626. doi: 10.1016/j.compbiomed.2020.103626. Epub 2020 Jan
+24. PMID: 32174328.
+
+51: Ahmad OM, Ibrahim R, Odunsi DI, Mohammed M, Mathew BG, Touny M, Grewal BS,
+Bhanot S, Bodapati N, Thomas GP, Nv S, Masood L, Morani Z. Role of Mobile Health
+and Wearable Devices in Cardiovascular Disease Prevention: A Comprehensive
+Review. Cureus. 2025 May 7;17(5):e83673. doi: 10.7759/cureus.83673. PMID:
+40486456; PMCID: PMC12143862.
+
+52: Pedroso AF, Schwamm LH, Khera R. Distributed Precision Stroke Care:
+Artificial Intelligence-Driven Stroke Management Using Multimodal Sensor Data.
+Stroke. 2026 Feb;57(2):526-537. doi: 10.1161/STROKEAHA.125.050447. Epub 2025 Oct
+22. PMID: 41122835; PMCID: PMC12616450.
+
+53: Kumari Y, Bai P, Waqar F, Asif AT, Irshad B, Raj S, Varagantiwar V, Kumar M,
+Neha F, Chand S, Kumar S, Varrassi G, Khatri M, Mohamad T. Advancements in the
+Management of Endocrine System Disorders and Arrhythmias: A Comprehensive
+Narrative Review. Cureus. 2023 Oct 4;15(10):e46484. doi: 10.7759/cureus.46484.
+PMID: 37927670; PMCID: PMC10624418.
+
+54: Kovács A, Magunia H, Nicoara A, Oxborough D, Keller M, Augustine DX,
+Thijssen D, van Dijk A, Denault A, Haddad F, Surkova E. Challenges and
+opportunities in assessing right ventricular structure and function: a Roadmap
+for standardization, clinical implementation and research. Nat Rev Cardiol. 2026
+Jan;23(1):60-77. doi: 10.1038/s41569-025-01180-9. Epub 2025 Jun 25. PMID:
+40562802.
+
+55: Zhao YC, Wang Z, Zhao H, Yap NA, Wang R, Cheng W, Xu X, Ju LA. Sensing the
+Future of Thrombosis Management: Integrating Vessel-on-a-Chip Models, Advanced
+Biosensors, and AI-Driven Digital Twins. ACS Sens. 2025 Mar 28;10(3):1507-1520.
+doi: 10.1021/acssensors.4c02764. Epub 2025 Mar 11. PMID: 40067156.
+
+56: Wu Y, Zhang D, Jiang J, Zheng L, Zhou Z, Zhang Z, Nouri S. Multi-omics
+profiling and AI-driven clinically deployable risk models in MGUS and smoldering
+myeloma. Clin Exp Med. 2025 Dec 8;26(1):92. doi: 10.1007/s10238-025-01987-3.
+PMID: 41359081; PMCID: PMC12769579.
+
+57: Yu X, Cao J, Xu J, Xu Q, Chen H, Yu D, Ou A, Hu Y, Ma L. Efficacy of
+Telemedical Interventional Management in Patients with Coronary Heart Disease
+Undergoing Percutaneous Coronary Intervention: Randomized Controlled Trial. J
+Med Internet Res. 2025 Oct 20;27:e63350. doi: 10.2196/63350. PMID: 41115159;
+PMCID: PMC12536921.
+
+58: Wolber J, Schuppert A, Mücke M, Sellin J. Predicting disease outcomes from
+remote monitoring using machine learning: a systematic review. BMC Med Inform
+Decis Mak. 2026 Apr 25;26(1):145. doi: 10.1186/s12911-026-03495-0. PMID:
+42035089; PMCID: PMC13126998.
+
+59: Jankauskas SS, Varzideh F, Kansakar U, Santulli G. Artificial Intelligence
+in Cardiovascular Medicine: A Giant Step in Personalized Medicine? J Pers Med.
+2026 Apr 1;16(4):192. doi: 10.3390/jpm16040192. PMID: 42042558; PMCID:
+PMC13117876.
+
+60: Sarubbi B, Scognamiglio G. Who will be our adult congenital heart disease
+patient tomorrow? Eur Heart J Suppl. 2026 Jan 30;28(Suppl 1):i1-i6. doi:
+10.1093/eurheartjsupp/suaf091. PMID: 41624637; PMCID: PMC12854724.
+
+61: Lueken M, Mettner J, Spicher N, Gramlich M, Marx N, Leonhardt S, Zink MD.
+Towards Artificial Intelligence-Based Decision Support for Large-Scale Screening
+for Atrial Fibrillation. IEEE J Biomed Health Inform. 2025 Oct;29(10):7633-7642.
+doi: 10.1109/JBHI.2025.3579621. PMID: 40512642.
+
+62: Dunn P, Hazzard E. Technology approaches to digital health literacy. Int J
+Cardiol. 2019 Oct 15;293:294-296. doi: 10.1016/j.ijcard.2019.06.039. Epub 2019
+Jun 15. PMID: 31350037.
+
+63: Chen TH, Shiu YT, Lee T, Yang CY, Tarng DC. Hemodialysis vascular access
+flow surveillance: Current evidence and future directions. J Chin Med Assoc.
+2025 Nov 1;88(11):815-824. doi: 10.1097/JCMA.0000000000001302. Epub 2025 Oct 7.
+PMID: 41062425; PMCID: PMC12718712.
+
+64: Lopez Magallon A, Saenz L, Mehta R, Chacón MA, Martinez Ransanz S, Swink K,
+Berris M, Hanabergh S, Yerebakan C, Wessel D, Munoz R. Pediatric Tele-Critical
+Care: Initial Experience with a Continuous Surveillance Model Aiming to Prevent
+Cardiac Arrest in Children with Critical Heart Disease. Telemed J E Health. 2024
+Aug;30(8):2134-2141. doi: 10.1089/tmj.2024.0035. Epub 2024 Jun 28. PMID:
+38938212.
+
+65: Omboni S, Panzeri E, Campolo L. E-Health in Hypertension Management: an
+Insight into the Current and Future Role of Blood Pressure Telemonitoring. Curr
+Hypertens Rep. 2020 Jun 6;22(6):42. doi: 10.1007/s11906-020-01056-y. PMID:
+32506273.
+
+66: Chuang BB, Yang AC. Optimization of Using Multiple Machine Learning
+Approaches in Atrial Fibrillation Detection Based on a Large-Scale Data Set of
+12-Lead Electrocardiograms: Cross-Sectional Study. JMIR Form Res. 2024 Mar
+11;8:e47803. doi: 10.2196/47803. PMID: 38466973; PMCID: PMC10964144.
+
+67: Traykov V, Puererfellner H, Burri H, Foldesi CL, Scherr D, Duncker D, Arbelo
+E, Botto GL, Boriani G, Heidbuchel H, Malaczynska-Rajpold K, Farkowski MM,
+Dagres N, Szymanski P, Huculeci R, Casado-Arroyo R, Boveda S, Merino JL. EHRA
+perspective on the digital data revolution in arrhythmia management: insights
+from the association's annual summit. Europace. 2025 Aug 4;27(8):euaf149. doi:
+10.1093/europace/euaf149. PMID: 40802569; PMCID: PMC12345632.
+
+68: Travers S, Alexandre J, Baldassarre LA, Salem JE, Mirabel M. Diagnosis of
+cancer therapy-related cardiovascular toxicities: A multimodality integrative
+approach and future developments. Arch Cardiovasc Dis. 2025 Mar;118(3):185-198.
+doi: 10.1016/j.acvd.2024.12.012. Epub 2025 Jan 30. PMID: 39947997.
+
+69: Junejo AR, Kaabar MKA, Li X. Optimization: Molecular Communication Networks
+for Viral Disease Analysis Using Deep Leaning Autoencoder. Comput Math Methods
+Med. 2021 Dec 13;2021:9949328. doi: 10.1155/2021/9949328. PMID: 34938362; PMCID:
+PMC8687764.
+
+70: Wang L, Tian S, Zhu R. A new method of continuous blood pressure monitoring
+using multichannel sensing signals on the wrist. Microsyst Nanoeng. 2023 Sep
+21;9:117. doi: 10.1038/s41378-023-00590-4. PMID: 37744263; PMCID: PMC10511443.
+
+71: Kłopecka M, Zimodro JM, Jania K, Kwiatkowski J, Rokicki J, Fojt A, Grabowski
+M, Kowalik R, Gąsecka A. Predicting heart failure decompensation: focus on non-
+invasive monitoring. Cardiol J. 2026;33:e00226028. doi: 10.5603/cj.107197. PMID:
+41848382.
+
+72: Kim S, Yun D, Kwon S, Lee SR, Kim K, Kim YC, Kim DK, Oh KH, Joo KW, Lee HC,
+Jung CW, Kim YS, Han SS. System of integrating biosignals during hemodialysis:
+the CONTINUAL (Continuous mOnitoriNg viTal sIgN dUring hemodiALysis) registry.
+Kidney Res Clin Pract. 2022 May;41(3):363-371. doi: 10.23876/j.krcp.21.157. Epub
+2022 May 23. PMID: 35698753; PMCID: PMC9184839.
+
+73: Huang YH, Lyle JV, Ab Razak AS, Nandi M, Marr CM, Huang CL, Aston PJ,
+Jeevaratnam K. Detecting paroxysmal atrial fibrillation from normal sinus rhythm
+in equine athletes using Symmetric Projection Attractor Reconstruction and
+machine learning. Cardiovasc Digit Health J. 2022 Feb 14;3(2):96-106. doi:
+10.1016/j.cvdhj.2022.02.001. PMID: 35493267; PMCID: PMC9043370.
+
+74: Merdler I, Hochstadt A, Ghantous E, Lupu L, Borohovitz A, Zahler D, Taieb P,
+Sadeh B, Zalevsky Z, Garcia-Monreal J, Shergei M, Shatsky M, Beck Y, Polani S,
+Arbel Y. A Contact-Free Optical Device for the Detection of Pulmonary
+Congestion-A Pilot Study. Biosensors (Basel). 2022 Oct 6;12(10):833. doi:
+10.3390/bios12100833. PMID: 36290968; PMCID: PMC9599847.
+
+75: van Es VAA, van Leunen MMCJ, de Lathauwer ILJ, Verstappen CCAG, Tio RA, Spee
+RF, Yuan L, Betta M, Handjaras G, Kemps HMC. Predicting acute decompensated
+heart failure using circadian markers from heart rate time series. ESC Heart
+Fail. 2025 Dec;12(6):4095-4107. doi: 10.1002/ehf2.15395. Epub 2025 Aug 28. PMID:
+40873387; PMCID: PMC12719807.
+
+76: Sener YZ, Ceasovschih A, Murzalieva E, Oksul M, Uzun HG, Yilmaz OF, Belancic
+A, Allamsetty S, Piotrowski R, Corlateanu A, Sorodoc V. A deep dive into atrial
+fibrillation in chronic obstructive pulmonary disease. NPJ Prim Care Respir Med.
+2026 Jan 8;36(1):11. doi: 10.1038/s41533-025-00477-z. PMID: 41501033; PMCID:
+PMC12886811.
+
+77: Karpagam M, Sarumathi S, Maheshwari A, Vijayalakshmi K, Jagadeesh K,
+Bereznychenko V, Narayanamoorthi R. An effective PO-RSNN and FZCIS based
+diabetes prediction and stroke analysis in the metaverse environment. Sci Rep.
+2025 Apr 4;15(1):11633. doi: 10.1038/s41598-025-96541-2. PMID: 40185954; PMCID:
+PMC11971470.
+
+78: Marijon E, Garcia R, Narayanan K, Karam N, Jouven X. Fighting against sudden
+cardiac death: need for a paradigm shift-Adding near-term prevention and pre-
+emptive action to long-term prevention. Eur Heart J. 2022 Apr
+14;43(15):1457-1464. doi: 10.1093/eurheartj/ehab903. PMID: 35139183; PMCID:
+PMC9009402.
+
+79: Olawade DB, Aderinto N, Clement David-Olawade A, Egbon E, Adereni T, Popoola
+MR, Tiwari R. Integrating AI-driven wearable devices and biometric data into
+stroke risk assessment: A review of opportunities and challenges. Clin Neurol
+Neurosurg. 2025 Feb;249:108689. doi: 10.1016/j.clineuro.2024.108689. Epub 2024
+Dec 10. PMID: 39675149.
+
+80: Kario K, Williams B, Tomitani N, McManus RJ, Schutte AE, Avolio A, Shimbo D,
+Wang JG, Khan NA, Picone DS, Tan I, Charlton PH, Satoh M, Mmopi KN, Lopez-Lopez
+JP, Bothe TL, Bianchini E, Bhandari B, Lopez-Rivera J, Charchar FJ, Tomaszewski
+M, Stergiou G. Innovations in blood pressure measurement and reporting
+technology: International Society of Hypertension position paper endorsed by the
+World Hypertension League, European Society of Hypertension, Asian Pacific
+Society of Hypertension, and Latin American Society of Hypertension. J
+Hypertens. 2024 Nov 1;42(11):1874-1888. doi: 10.1097/HJH.0000000000003827. Epub
+2024 Sep 9. PMID: 39246139.
+
+81: Ginder C, Li J, Halperin JL, Akar JG, Martin DT, Chattopadhyay I, Upadhyay
+GA. Predicting Malignant Ventricular Arrhythmias Using Real-Time
+Remote Monitoring. J Am Coll Cardiol. 2023 Mar 14;81(10):949-961. doi:
+10.1016/j.jacc.2022.12.024. PMID: 36889873.
+
+82: Umer M, Aljrees T, Karamti H, Ishaq A, Alsubai S, Omar M, Bashir AK, Ashraf
+I. Heart failure patients monitoring using IoT-based remote monitoring system.
+Sci Rep. 2023 Nov 6;13(1):19213. doi: 10.1038/s41598-023-46322-6. PMID:
+37932424; PMCID: PMC10628138.
+
+83: Niyogi SG, Nag DS, Shah MM, Swain A, Naskar C, Srivastava P, Kant R. Role of
+artificial intelligence in congenital heart disease. World J Clin Pediatr. 2025
+Sep 9;14(3):105926. doi: 10.5409/wjcp.v14.i3.105926. PMID: 40881074; PMCID:
+PMC12304924.
+
+84: Qi Y, Li G, Yang J, Li H, Yu Q, Qu M, Ning H, Wang Y. ECGEFNet: A two-branch
+deep learning model for calculating left ventricular ejection fraction using
+electrocardiogram. Artif Intell Med. 2025 Feb;160:103065. doi:
+10.1016/j.artmed.2024.103065. Epub 2025 Jan 3. PMID: 39809042.
+
+85: Huang Z, Zhao X, Ziv O, Laurita KR, Rollins AM, Hendon CP. Automated
+analysis framework for <i>in vivo</i> cardiac ablation therapy monitoring with
+optical coherence tomography. Biomed Opt Express. 2023 Feb 23;14(3):1228-1242.
+doi: 10.1364/BOE.480943. PMID: 36950243; PMCID: PMC10026573.
+
+86: Wang J, Li M, Shao A, Li G. Evaluation of cerebral blood flow after
+subarachnoid hemorrhage using near-field coupling and machine learning. Technol
+Health Care. 2025 May;33(3):1444-1461. doi: 10.1177/09287329241296246. Epub 2024
+Dec 25. PMID: 40331551.
+
+87: Rosman L, Lampert R, Wang K, Gehi AK, Dziura J, Salmoirago-Blotcher E,
+Brandt C, Sears SF, Burg M. Machine Learning-Based Prediction of Death and
+Hospitalization in Patients With Implantable Cardioverter Defibrillators. J Am
+Coll Cardiol. 2025 Jan 7;85(1):42-55. doi: 10.1016/j.jacc.2024.09.006. Epub 2024
+Nov 20. PMID: 39570241.
+
+88: Guo RX, Tian X, Bazoukis G, Tse G, Hong S, Chen KY, Liu T. Application of
+artificial intelligence in the diagnosis and treatment of cardiac arrhythmia.
+Pacing Clin Electrophysiol. 2024 Jun;47(6):789-801. doi: 10.1111/pace.14995.
+Epub 2024 May 7. PMID: 38712484.
+
+89: Scheid M, Coleman KM, Mullane S, Varrias D, Mountantonakis E, Husk G, Bhasin
+K, Skipitaris N, Epstein LM, Zanos TP, Mountantonakis SE. Leveraging Implantable
+Cardiac Defibrillator Remote Transmissions to Predict the Occurrence of Atrial
+Fibrillation. J Cardiovasc Electrophysiol. 2025 Nov;36(11):2903-2909. doi:
+10.1111/jce.70072. Epub 2025 Sep 7. PMID: 40916235.
+
+90: Kishor Kumar Reddy C, Kaza VS, Madana Mohana R, Alhameed M, Jeribi F, Alam
+S, Shuaib M. Detecting anomalies in smart wearables for hypertension: a deep
+learning mechanism. Front Public Health. 2025 Jan 15;12:1426168. doi:
+10.3389/fpubh.2024.1426168. PMID: 39850864; PMCID: PMC11755415.
+
+91: Mohan A, Elbers D, Zilbershot O, Afghah F, Vorchheimer D. Deciphering
+Heartbeat Signatures: A Vision Transformer Approach to Explainable Atrial
+Fibrillation Detection from ECG Signals. Annu Int Conf IEEE Eng Med Biol Soc.
+2024 Jul;2024:1-6. doi: 10.1109/EMBC53108.2024.10782666. PMID: 40039647.
+
+92: Chow JSF, D'Souza A, Ford M, Marshall S, San Miguel S, Parameswaran A,
+Parsons M, Ramirez J, Teramayi R, Maurya N. A descriptive study of the clinical
+impacts on COVID-19 survivors using telemonitoring (The TeleCOVID Study). Front
+Med Technol. 2023 Mar 20;5:1126258. doi: 10.3389/fmedt.2023.1126258. PMID:
+37020492; PMCID: PMC10067568.
+
+93: Jiang B, Graham E, Unberath M, Taylor RH, Koehler RC, Kang J, Boctor EM.
+Automatic photoacoustic monitoring of perinatal brain hypoxia with superior
+sagittal sinus detection. J Biomed Opt. 2025 Jul;30(7):076004. doi:
+10.1117/1.JBO.30.7.076004. Epub 2025 Jul 11. PMID: 40655941; PMCID: PMC12245645.
+
+94: Shuja MH, Shakil F, Shuja SH, Hasan M, Edhi M, Abbasi AF, Jawaid A, Shakil
+S. Harnessing Artificial Intelligence in Cardiology: Advancements in Diagnosis,
+Treatment, and Patient Care. Heart Views. 2024 Oct-Dec;25(4):241-248. doi:
+10.4103/heartviews.heartviews_103_24. Epub 2025 May 10. PMID: 40488153; PMCID:
+PMC12139645.
+
+95: Sun Y, Meng K, Lang S, Li P, Wang W, Yang J. Multi-Classification Model for
+PPG Signal Arrhythmia Based on Time-Frequency Dual-Domain Attention Fusion.
+Sensors (Basel). 2025 Sep 27;25(19):5985. doi: 10.3390/s25195985. PMID:
+41094810; PMCID: PMC12526570.
+
+96: Prabhakaran D, Ajay VS, Tandon N. Strategic Opportunities for Leveraging
+Low-cost, High-impact Technological Innovations to Promote Cardiovascular Health
+in India. Ethn Dis. 2019 Feb 21;29(Suppl 1):145-152. doi: 10.18865/ed.29.S1.145.
+PMID: 30906163; PMCID: PMC6428188.
+
+97: Castelletti S, Winkel BG, Schwartz PJ. Remote Monitoring of the QT Interval
+and Emerging Indications for Arrhythmia Prevention. Card Electrophysiol Clin.
+2021 Sep;13(3):523-530. doi: 10.1016/j.ccep.2021.04.010. Epub 2021 Jul 8. PMID:
+34330378.
+
+98: Prachi, Sabherwal P, Agrawal M, Sharma A. Precision Unveiled in Unborn: A
+Cutting-Edge Hybrid Machine Learning Approach for Fetal Health State
+Classification. Cardiovasc Eng Technol. 2025 Dec;16(6):641-662. doi:
+10.1007/s13239-025-00800-2. Epub 2025 Aug 27. PMID: 40866753.
+
+99: Sandelin J, Lahdenoja O, Elnaggar I, Rekola R, Anzanpour A, Seifizarei S,
+Kaisti M, Koivisto T, Lehto J, Nuotio J, Jaakkola J, Relander A, Vasankari T,
+Airaksinen J, Kiviniemi T. Bed sensor ballistocardiogram for non-invasive
+detection of atrial fibrillation: a comprehensive clinical study. Physiol Meas.
+2025 Mar 11;46(3). doi: 10.1088/1361-6579/adbb52. PMID: 40014915.
+
+100: Hasumi E, Fujiu K, Chen Y, Miyamoto S, Oida M, Shimizu Y, Kani K, Goto K,
+Uchida R, Liu Y, Oshima T, Matsuda J, Matsubara TJ, Sugita J, Nakayama Y, Oguri
+G, Kojima T, Maru Y, Kodera S, Akazawa H, Shoda M, Komuro I. Heart failure
+monitoring with a single‑lead electrocardiogram at home. Int J Cardiol. 2025 Aug
+1;432:133203. doi: 10.1016/j.ijcard.2025.133203. Epub 2025 Apr 24. PMID:
+40280823.
+
+101: Skalidis I, Maurizi N, Salihu A, Fournier S, Cook S, Iglesias JF, Laforgia
+P, D'Angelo L, Garot P, Hovasse T, Neylon A, Unterseeh T, Champagne S, Amabile
+N, Sayah N, Sanguineti F, Akodad M, Lu H, Antiochos P. Artificial Intelligence
+and Advanced Digital Health for Hypertension: Evolving Tools for Precision
+Cardiovascular Care. Medicina (Kaunas). 2025 Sep 4;61(9):1597. doi:
+10.3390/medicina61091597. PMID: 41010987; PMCID: PMC12471829.
+
+102: Clares de Andrade JB, Carneiro TS, Nunes Mendes GN, Nardari Dos Santos JP,
+Lima JC. A clinical-AI correlation for integrating artificial intelligence into
+stroke care: a systematized literature review and practice framework. Int J Med
+Inform. 2026 Mar 15;208:106233. doi: 10.1016/j.ijmedinf.2025.106233. Epub 2025
+Dec 21. PMID: 41435444.
+
+103: Chokshi S, Tologonova G, Calixte R, Yadav V, Razvi N, Lazar J, Kachnowski
+S. Comparison Between QT and Corrected QT Interval Assessment by an Apple Watch
+With the AccurBeat Platform and by a 12‑Lead Electrocardiogram With Manual
+Annotation: Prospective Observational Study. JMIR Form Res. 2022 Sep
+28;6(9):e41241. doi: 10.2196/41241. PMID: 36169999; PMCID: PMC9557757.
+
+104: Danial M, Chow CT, Lim MH, Ayop NA, Looi I, Ch'ng ASH. AI-based patient
+monitoring for fall prevention in stroke patients: a pilot study at a Malaysian
+acute stroke unit. J Neuroeng Rehabil. 2025 Oct 21;22(1):216. doi:
+10.1186/s12984-025-01706-9. PMID: 41121354; PMCID: PMC12542081.
+
+105: Feng T, Li Y, Feng Y, Zeng C. Application of emerging information
+technologies in the prevention and control of chronic diseases. Front Public
+Health. 2026 Jan 21;14:1755672. doi: 10.3389/fpubh.2026.1755672. PMID: 41647744;
+PMCID: PMC12868171.
+
+106: De Melo Ribeiro H, Arnold A, Howard JP, Shun-Shin MJ, Zhang Y, Francis DP,
+Lim PB, Whinnett Z, Zolgharni M. ECG-based real-time arrhythmia monitoring using
+quantized deep neural networks: A feasibility study. Comput Biol Med. 2022
+Apr;143:105249. doi: 10.1016/j.compbiomed.2022.105249. Epub 2022 Jan 22. PMID:
+35091363.
+
+107: Pilvar A, Plutzky J, Roblyer D. Enhanced peripheral tissue oxygenation and
+hemoglobin concentration after a high-fat meal measured with spatial frequency
+domain imaging. Biophotonics Discov. 2024 Sep 12;1(2):025004. doi:
+10.1117/1.BIOS.1.2.025004. PMID: 42028168; PMCID: PMC13098637.
+
+108: Bailoor S, Seo JH, Dasi L, Schena S, Mittal R. Towards Longitudinal
+Monitoring of Leaflet Mobility in Prosthetic Aortic Valves via In-Situ Pressure
+Sensors: In-Silico Modeling and Analysis. Cardiovasc Eng Technol. 2023
+Feb;14(1):25-36. doi: 10.1007/s13239-022-00635-1. Epub 2022 Jun 6. PMID:
+35668222.
+
+109: Ainiwaer A, Kadier K, Qin L, Rehemuding R, Ma X, Ma YT. Audiological
+Diagnosis of Valvular and Congenital Heart Diseases in the Era of Artificial
+Intelligence. Rev Cardiovasc Med. 2023 Jun 14;24(6):175. doi:
+10.31083/j.rcm2406175. PMID: 39077516; PMCID: PMC11264159.
+
+110: Kwak J, Jung J. Classification of imbalanced ECGs through segmentation
+models and augmented by conditional diffusion model. PeerJ Comput Sci. 2024 Sep
+4;10:e2299. doi: 10.7717/peerj-cs.2299. PMID: 39314720; PMCID: PMC11419651.
+
+111: Dunn P, Charbonneau R, Ozemek C, Arena R, Wisløff U. Digital care in your
+pocket: The role of technology in exercise, fitness, prevention, and
+rehabilitation. Prog Cardiovasc Dis. 2026 Apr 7:S0033-0620(26)00031-9. doi:
+10.1016/j.pcad.2026.04.002. Epub ahead of print. PMID: 41956274.
+
+112: Chowdhury MA, Rizk R, Chiu C, Zhang JJ, Scholl JL, Bosch TJ, Singh A, Baugh
+LA, McGough JS, Santosh KC, Chen WCW. The Heart of Transformation: Exploring
+Artificial Intelligence in Cardiovascular Disease. Biomedicines. 2025 Feb
+10;13(2):427. doi: 10.3390/biomedicines13020427. PMID: 40002840; PMCID:
+PMC11852486.
+
+113: Ansari RA, Bandyopadhyay S, Trivedi RK, Brennan KA, Liu X, Ganesan P,
+Hughes JW, Perino AC, Ashley EA, Wang PJ, Coleman T, Perez MV, Ouyang D, Narayan
+SM, Rogers AJ. Deep Learning-Based Continuous QT Monitoring to Identify High-
+Risk Prolongation Events After Class III Antiarrhythmic Initiation. Circulation.
+2026 Jan 6;153(1):35-46. doi: 10.1161/CIRCULATIONAHA.125.077494. Epub 2025 Nov
+8. PMID: 41460938.
+
+114: Mhamdi L, Dammak O, Cottin F, Dhaou IB. Artificial Intelligence for Cardiac
+Diseases Diagnosis and Prediction Using ECG Images on Embedded Systems.
+Biomedicines. 2022 Aug 19;10(8):2013. doi: 10.3390/biomedicines10082013. PMID:
+36009560; PMCID: PMC9405719.
+
+115: Abedi A, Verma A, Jain D, Kaetheeswaran J, Chui C, Lankarany M, Khan SS.
+AI-Driven Real-Time Monitoring of Cardiovascular Conditions With Wearable
+Devices: Scoping Review. JMIR Mhealth Uhealth. 2025 Nov 11;13:e73846. doi:
+10.2196/73846. PMID: 41218203; PMCID: PMC12777649.
+
+116: Fastenrath F, Sattler K, Duerschmied D, Lewandowski M, Akin I, Kuschyk J.
+Contemporary implantable cardiac device trials for sudden cardiac death and
+future guidelines: how can we shape the future? Expert Rev Cardiovasc Ther. 2026
+Jan-Feb;24(2):71-80. doi: 10.1080/14779072.2026.2621666. Epub 2026 Jan 28. PMID:
+41569233.
+
+117: So S, Khalaf A, Yi X, Herring C, Zhang Y, Simon MA, Akcakaya M, Lee S, Yun
+M. Induced bioresistance via BNP detection for machine learning-based risk
+assessment. Biosens Bioelectron. 2021 Mar 1;175:112903. doi:
+10.1016/j.bios.2020.112903. Epub 2020 Dec 16. PMID: 33370705.
+
+118: Nguyen T, Kolla SS, Wang H, Weisbecker H, Messersmith B, Leal DBM,
+Kuntamukkala R, Liu Y, Hanson ED, Paterson C, Chauntry AJ, Bai W. A Pilot Human
+Study on Dual Photoplethysmography for Continuously Monitoring Pulse Wave
+Velocity and Blood Pressure. IEEE J Flex Electron. 2025 Nov;4(11):422-428. doi:
+10.1109/jflex.2025.3614515. Epub 2025 Sep 25. PMID: 41522493; PMCID:
+PMC12787321.
+
+119: Lemes L, Gonzalez M, Chatterjee P. Review on Artificial Intelligence
+applied to Cardiovascular Disease Management in Latin America. Annu Int Conf
+IEEE Eng Med Biol Soc. 2025 Jul;2025:1-6. doi: 10.1109/EMBC58623.2025.11251637.
+PMID: 41336095.
+
+120: Pozza A, Zanella L, Castaldi B, Di Salvo G. How Will Artificial
+Intelligence Shape the Future of Decision-Making in Congenital Heart Disease? J
+Clin Med. 2024 May 20;13(10):2996. doi: 10.3390/jcm13102996. PMID: 38792537;
+PMCID: PMC11122569.
+
+121: Gaoudam N, Sakhamudi SK, Kamal B, Addla N, Reddy EP, Ambala M, Lavanya K,
+Palaparthi EC, Bhattam A, Periasamy P, Sayana SB, Medabala T. Wearable Devices
+and AI-Driven Remote Monitoring in Cardiovascular Medicine: A Narrative Review.
+Cureus. 2025 Aug 16;17(8):e90208. doi: 10.7759/cureus.90208. PMID: 40964568;
+PMCID: PMC12439441.
+
+122: Simone L, Miglior L, Gervasi V, Moroni L, Vignali E, Gasparotti E, Celi S.
+Deep learning framework for cardiorespiratory disease detection using smartphone
+IMU sensors. Comput Biol Med. 2025 Sep;196(Pt A):110595. doi:
+10.1016/j.compbiomed.2025.110595. Epub 2025 Jul 3. PMID: 40614516.
+
+123: Butler L, Ivanov A, Celik T, Karabayir I, Chinthala L, Hudson MM, Ness KK,
+Mulrooney DA, Dixon SB, Tootooni MS, Doerr AJ, Jaeger BC, Davis RL, McManus DD,
+Herrington D, Akbilgic O. Feasibility of remote monitoring for fatal coronary
+heart disease using Apple Watch ECGs. Cardiovasc Digit Health J. 2024 Apr
+5;5(3):115-121. doi: 10.1016/j.cvdhj.2024.03.007. PMID: 38989042; PMCID:
+PMC11232422.
+
+124: Santos Rodrigues A, Augustauskas R, Lukoševičius M, Laguna P, Marozas V.
+Deep-Learning-Based Estimation of the Spatial QRS-T Angle from Reduced-Lead
+ECGs. Sensors (Basel). 2022 Jul 20;22(14):5414. doi: 10.3390/s22145414. PMID:
+35891094; PMCID: PMC9328169.
+
+125: Patel UK, Anwar A, Saleem S, Malik P, Rasul B, Patel K, Yao R, Seshadri A,
+Yousufuddin M, Arumaithurai K. Artificial intelligence as an emerging technology
+in the current care of neurological disorders. J Neurol. 2021
+May;268(5):1623-1642. doi: 10.1007/s00415-019-09518-3. Epub 2019 Aug 26. PMID:
+31451912.
+
+126: Fernández Lozano I, Fernández de la Concha J, Ramos Maqueda J, Pérez
+Castellano N, Salguero Bodes R, García-Fernández FJ, Benezet Mazuecos J, Jiménez
+Candil J, Datino T, Briongos Figuero S, Paniagua Olmedillas J, Font de la Fuente
+MN, López-Dóriga Costales J, Paz Fernández S, Copoví Lucas V. Short-Term
+Arrhythmia Prediction Using AI Based on Daily Data From Implantable Devices:
+Multicenter Prospective Observational Study. JMIR Cardio. 2026 Mar 18;10:e85841.
+doi: 10.2196/85841. PMID: 41849575; PMCID: PMC12998600.
+
+127: Lee Y, Noh Y, Walkey A, Chon KH. A two-stage deep learning framework for
+predicting the onset of Atrial fibrillation using RR interval-based embeddings.
+Biocybern Biomed Eng. 2026 Jan-Mar;46(1):176-187. doi:
+10.1016/j.bbe.2026.01.004. Epub 2026 Jan 31. PMID: 41878690; PMCID: PMC13007920.
+
+128: Pozzi A, Spoladore R, Iorio A, Corrado G, D'Amario D. Heart failure with
+preserved ejection fraction, from pathophysiology to technology tools aim
+improve patients' management. Heart Fail Rev. 2025 Dec 1;31(1):3. doi:
+10.1007/s10741-025-10585-0. PMID: 41320694.
+
+129: Naseri A, Tax DMJ, Reinders M, van der Bilt I. Heart disease detection
+using an acceleration-deceleration curve-based neural network with consumer-
+grade smartwatch data. Heliyon. 2024 Oct 30;10(21):e39927. doi:
+10.1016/j.heliyon.2024.e39927. PMID: 39553636; PMCID: PMC11566672.
+
+130: Netra SN, Srinidhi NN, Naresh E. Adaptive deep SVM for detecting early
+heart disease among cardiac patients. Sci Rep. 2025 Aug 18;15(1):30222. doi:
+10.1038/s41598-025-15938-1. PMID: 40825995; PMCID: PMC12361362.
+
+131: Kumar D, Peimankar A, Sharma K, Domínguez H, Puthusserypady S, Bardram JE.
+Deepaware: A hybrid deep learning and context-aware heuristics-based model for
+atrial fibrillation detection. Comput Methods Programs Biomed. 2022
+Jun;221:106899. doi: 10.1016/j.cmpb.2022.106899. Epub 2022 May 19. PMID:
+35640394.
+
+132: Alazzam MB, Mansour H, Alassery F, Almulihi A. Machine Learning
+Implementation of a Diabetic Patient Monitoring System Using Interactive E-App.
+Comput Intell Neurosci. 2021 Dec 31;2021:5759184. doi: 10.1155/2021/5759184.
+Retraction in: Comput Intell Neurosci. 2023 Oct 4;2023:9756078. doi:
+10.1155/2023/9756078. PMID: 35003245; PMCID: PMC8741365.
+
+133: Antoun I, Nizam A, Ebeid A, Rajesh M, Abdelrazik A, Eldesouky M, Thu KM,
+Barker J, Layton GR, Zakkar M, Ibrahim M, Safwan K, Dibek RM, Somani R, Ng GA,
+Bolger A. Artificial Intelligence in Adult Congenital Heart Disease: Diagnostic
+and Therapeutic Applications and Future Directions. Rev Cardiovasc Med. 2025 Aug
+28;26(8):41523. doi: 10.31083/RCM41523. PMID: 40927097; PMCID: PMC12415737.
+
+134: Kanai M, Park S, Miki T, Hagiwara Y, Hashimoto A, Nambo H, Karashima S.
+Investigating feature-engineered predictors for systolic blood pressure changes
+in an mHealth-based disease management program. Hypertens Res. 2026
+Apr;49(4):1204-1213. doi: 10.1038/s41440-026-02569-w. Epub 2026 Feb 17. PMID:
+41699289; PMCID: PMC13050640.
+
+135: De Lathauwer ILJ, Nieuwenhuys WW, Hafkamp F, Regis M, Brouwers RWM, Funk M,
+Kemps HMC. Remote patient monitoring in heart failure: A comprehensive meta-
+analysis of effective programme components for hospitalization and mortality
+reduction. Eur J Heart Fail. 2025 Sep;27(9):1670-1685. doi: 10.1002/ejhf.3568.
+Epub 2025 Jan 20. PMID: 39834044; PMCID: PMC12502459.
+
+136: Hussain S, Ahmad S, Wasid M. Artificial intelligence-driven intelligent
+learning models for identification and prediction of cardioneurological
+disorders: A comprehensive study. Comput Biol Med. 2025 Jan;184:109342. doi:
+10.1016/j.compbiomed.2024.109342. Epub 2024 Nov 20. PMID: 39571276.
+
+137: Alugubelli N, Abuissa H, Roka A. Wearable Devices for Remote Monitoring of
+Heart Rate and Heart Rate Variability-What We Know and What Is Coming. Sensors
+(Basel). 2022 Nov 17;22(22):8903. doi: 10.3390/s22228903. PMID: 36433498; PMCID:
+PMC9695982.
+
+138: Abraham JD, Abraham WT. Remote monitoring in heart failure: artificial
+intelligence and the use of remote speech analysis to detect worsening heart
+failure events. Heart Fail Rev. 2025 Sep;30(5):985-989. doi:
+10.1007/s10741-025-10522-1. Epub 2025 May 27. PMID: 40425974; PMCID:
+PMC12296941.
+
+139: Zhang Y, Ren X, Liang X, Ye X, Zhou C. A Refined Blood Pressure Estimation
+Model Based on Single Channel Photoplethysmography. IEEE J Biomed Health Inform.
+2022 Dec;26(12):5907-5917. doi: 10.1109/JBHI.2022.3206477. Epub 2022 Dec 7.
+PMID: 36103444.
+
+140: Khaja S, Baijoo K, Aziz R. Artificial intelligence-powered advancements in
+atrial fibrillation diagnostics: a systematic review. Egypt Heart J. 2025 Jul
+23;77(1):73. doi: 10.1186/s43044-025-00670-y. PMID: 40699382; PMCID:
+PMC12287477.
+
+141: Castelyn G, Laranjo L, Schreier G, Gallego B. Predictive performance and
+impact of algorithms in remote monitoring of chronic conditions: A systematic
+review and meta-analysis. Int J Med Inform. 2021 Dec;156:104620. doi:
+10.1016/j.ijmedinf.2021.104620. Epub 2021 Oct 16. PMID: 34700194.
+
+142: Medina-Avelino J, Silva-Bustillos R, Holgado-Terriza JA. Are Wearable ECG
+Devices Ready for Hospital at Home Application? Sensors (Basel). 2025 May
+9;25(10):2982. doi: 10.3390/s25102982. PMID: 40431777; PMCID: PMC12114646.
+
+143: M Odat R, Marsool Marsool MD, Nguyen D, Idrees M, Hussein AM, Ghabally M, A
+Yasin J, Hanifa H, Sabet CJ, Dinh NH, Harky A, Jain J, Jain H. Presurgery and
+postsurgery: advancements in artificial intelligence and machine learning models
+for enhancing patient management in infective endocarditis. Int J Surg. 2024 Nov
+1;110(11):7202-7214. doi: 10.1097/JS9.0000000000002003. PMID: 39051669; PMCID:
+PMC11573050.
+
+144: Naidoo V, Madamshetty L, Krishna SBN. Artificial intelligence for
+cardiology: from diagnosis to management. Ther Adv Cardiovasc Dis. 2026 Jan-
+Dec;20:17539447251406847. doi: 10.1177/17539447251406847. Epub 2026 Feb 19.
+PMID: 41711077; PMCID: PMC12923939.
+
+145: Parizad R, Hatwal J, Brar A, Desai R, Batta A, Mohan B. Artificial
+Intelligence for Cardiovascular Risk Prediction: An Umbrella Review of
+Applications and Translational Challenges. Vasc Health Risk Manag. 2026 Mar
+28;22:590502. doi: 10.2147/VHRM.S590502. PMID: 41939694; PMCID: PMC13044801.
+
+146: Krimpen LV, John A, Thiyagarajah A, Carbonati T, Sacristan B, Benali K, Da
+Costa A, Mondoly P, Chauvel R, Eschalier R, Duchateau J, Dubois R, Ploux S,
+Bordachar P, Strik M. A Multi-Center Trained Residual Neural Network for Robust
+Classification of Atrial High-Rate Episodes in Remotely Monitored Pacemakers and
+Defibrillators. Sensors (Basel). 2026 Apr 4;26(7):2241. doi: 10.3390/s26072241.
+PMID: 41978027; PMCID: PMC13075326.
+
+147: Pizarro CS, Schots BBS, Schuuring MJ, van der Harst P, van Es R, Oerlemans
+MIFJ. Non-Invasive Remote Monitoring in Heart Failure: Towards Wearable Devices
+and Artificial Intelligence Solutions : Short Title: Remote Monitoring and
+Wearable Devices in Heart Failure. Curr Heart Fail Rep. 2025 Dec 4;22(1):44.
+doi: 10.1007/s11897-025-00725-w. PMID: 41343137; PMCID: PMC12678519.
+
+148: Canino G, Di Costanzo A, Salerno N, Leo I, Cannataro M, Guzzi PH, Veltri P,
+Sorrentino S, De Rosa S, Torella D. Artificial Intelligence in Cardiac
+Electrophysiology: A Clinically Oriented Review with Engineering Primers.
+Bioengineering (Basel). 2025 Oct 13;12(10):1102. doi:
+10.3390/bioengineering12101102. PMID: 41155101; PMCID: PMC12561549.
+
+149: Shi Y, Zhang X, Ma C, Zhang Y, Yang Z, Yan W, Yan M, Zhang Q, Zhang Z.
+Dynamic HRV Monitoring and Machine Learning Predict NYHA Improvements in Acute
+Heart Failure Patients. Comput Biol Med. 2025 May;189:109995. doi:
+10.1016/j.compbiomed.2025.109995. Epub 2025 Mar 9. PMID: 40058080.
+
+150: Borrelli N, Sabatino J, Ruperti-Repilado FJ, Tutarel O, Giannakoulas G,
+D'Alto M, Romeo E, Tobler D, Diller GP. New perspectives in the management of
+adults with congenital heart disease: insights from the 2025 ACHD Congress. Eur
+Heart J Suppl. 2026 Jan 30;28(Suppl 1):i50-i57. doi:
+10.1093/eurheartjsupp/suaf086. PMID: 41624634; PMCID: PMC12854725.
+
+151: Han L, Askari M, Altman RB, Schmitt SK, Fan J, Bentley JP, Narayan SM,
+Turakhia MP. Atrial Fibrillation Burden Signature and Near-Term Prediction of
+Stroke: A Machine Learning Analysis. Circ Cardiovasc Qual Outcomes. 2019
+Oct;12(10):e005595. doi: 10.1161/CIRCOUTCOMES.118.005595. Epub 2019 Oct 15.
+PMID: 31610712; PMCID: PMC8284982.
+
+152: Elvas LB, Almeida A, Ferreira JC. The Role of AI in Cardiovascular Event
+Monitoring and Early Detection: Scoping Literature Review. JMIR Med Inform. 2025
+Mar 6;13:e64349. doi: 10.2196/64349. PMID: 40048151; PMCID: PMC11905924.
+
+153: Pandey A, Singh A, Boyapati P, Chaturvedi A, Purushotham N, M S. An
+automated ECG-based deep learning for the early-stage identification and
+classification of cardiovascular disease. Technol Health Care.
+2024;32(6):5025-5045. doi: 10.3233/THC-240543. PMID: 39302394.
+
+154: Zoumprouli A, Carden R, Bilotta F. Current and novel approaches for
+critical care management of aneurysmal subarachnoid hemorrhage in critical care.
+Curr Opin Anaesthesiol. 2025 Oct 1;38(5):541-546. doi:
+10.1097/ACO.0000000000001533. Epub 2025 Jun 3. PMID: 40493770.
+
+155: El-Sofany H, Bouallegue B, El-Latif YMA. A proposed technique for
+predicting heart disease using machine learning algorithms and an explainable AI
+method. Sci Rep. 2024 Oct 7;14(1):23277. doi: 10.1038/s41598-024-74656-2. PMID:
+39375427; PMCID: PMC11458608.
+
+156: Singh M, Babbarwal A, Pushpakumar S, Tyagi SC. Interoception, cardiac
+health, and heart failure: The potential for artificial intelligence (AI)-driven
+diagnosis and treatment. Physiol Rep. 2025 Jan;13(1):e70146. doi:
+10.14814/phy2.70146. PMID: 39788618; PMCID: PMC11717439.
+
+157: Thatha VN, Chalichalamala S, Pamula U, Krishna DP, Chinthakunta M, Mantena
+SV, Vahiduddin S, Vatambeti R. Optimized machine learning mechanism for big data
+healthcare system to predict disease risk factor. Sci Rep. 2025 Apr
+24;15(1):14327. doi: 10.1038/s41598-025-98721-6. PMID: 40274987; PMCID:
+PMC12022254.
+
+158: Hughes AM, Taylor DJ, Morris PD, Brittain EL. Wearable devices and
+cardiovascular health: revolutionizing remote monitoring and disease prevention.
+Eur Heart J. 2026 Mar 25:ehag189. doi: 10.1093/eurheartj/ehag189. Epub ahead of
+print. PMID: 41879156.
+
+159: Swerdlow M, Shin L, D'Huyvetter K, Mack WJ, Armstrong DG. Initial Clinical
+Experience with a Simple, Home System for Early Detection and Monitoring of
+Diabetic Foot Ulcers: The Foot Selfie. J Diabetes Sci Technol. 2023
+Jan;17(1):79-88. doi: 10.1177/19322968211053348. Epub 2021 Oct 31. PMID:
+34719973; PMCID: PMC9846401.
+
+160: Fragasso T, Passaro D, Toscano A, Amodeo A, Tozzi AE, Grutter G. Artificial
+Intelligence in Tetralogy of Fallot: From Prenatal Diagnosis to Lifelong
+Management: A Narrative Review. Bioengineering (Basel). 2025 Dec 10;12(12):1349.
+doi: 10.3390/bioengineering12121349. PMID: 41463646; PMCID: PMC12729529.
+
+161: Galderisi A, Zammataro L, Losiouk E, Lanzola G, Kraemer K, Facchinetti A,
+Galeazzo B, Favero V, Baraldi E, Cobelli C, Trevisanuto D, Steil GM. Continuous
+Glucose Monitoring Linked to an Artificial Intelligence Risk Index: Early
+Footprints of Intraventricular Hemorrhage in Preterm Neonates. Diabetes Technol
+Ther. 2019 Mar;21(3):146-153. doi: 10.1089/dia.2018.0383. PMID: 30835533.
+
+162: Siniscalchi C, Bernardi FF, Perrella A, Di Micco P. Remote Monitoring Model
+Based on Artificial Intelligence to Optimize DOAC Therapy: A Working Hypothesis
+for Safer Anticoagulation. Medicina (Kaunas). 2025 Nov 5;61(11):1982. doi:
+10.3390/medicina61111982. PMID: 41303819; PMCID: PMC12654835.
+
+163: Puleo S, Diana G, Livolsi C, Nioi L, Cuscino N, Scardulla F, Pasta S,
+D'Acquisto L. Non-Invasive Monitoring of Transcatheter Heart Valve Using
+Photoplethysmography and Machine Learning. Artif Organs. 2026 Apr;50(4):543-549.
+doi: 10.1111/aor.70069. Epub 2025 Nov 27. PMID: 41309505.
+
+164: Shakibfar S, Krause O, Lund-Andersen C, Aranda A, Moll J, Andersen TO,
+Svendsen JH, Petersen HH, Igel C. Predicting electrical storms by remote
+monitoring of implantable cardioverter-defibrillator patients using machine
+learning. Europace. 2019 Feb 1;21(2):268-274. doi: 10.1093/europace/euy257.
+PMID: 30508072.
+
+165: Chang TY, Chen SP, Hsieh JH, Huang GJ, Hung KC, Guo SM, Liu CM, Chang SL,
+Lin YJ, Lo LW, Hu YF, Chung FP, Lin CY, Chen SA. Artificial Intelligence-Enabled
+Short-Term Ambulatory Monitoring ECG During Sinus Rhythm for Prediction of
+Hidden Atrial Fibrillation. J Cardiovasc Electrophysiol. 2025
+Nov;36(11):2808-2815. doi: 10.1111/jce.70028. Epub 2025 Jul 25. PMID: 40709543.
+
+166: Rabinstein AA, Yost MD, Faust L, Kashou AH, Latif OS, Graff-Radford J,
+Attia IZ, Yao X, Noseworthy PA, Friedman PA. Artificial Intelligence-Enabled ECG
+to Identify Silent Atrial Fibrillation in Embolic Stroke of Unknown Source. J
+Stroke Cerebrovasc Dis. 2021 Sep;30(9):105998. doi:
+10.1016/j.jstrokecerebrovasdis.2021.105998. Epub 2021 Jul 22. PMID: 34303963.
+
+167: Torbey E, Cheung JW, Abideen Asad ZU, Tamirisa K, Tisdale JE, Copeland-
+Halperin R, Karimzad K, Ghosh AK, Cheng RK, Navara R, Akoum N, Rajagopolan B,
+Sadler D, Ajijola O, Love CJ, Deswal A, Fradley MG. Arrhythmias and cardiac
+devices management in oncology patients. Heart Rhythm. 2026 Mar
+31:S1547-5271(26)02227-7. doi: 10.1016/j.hrthm.2026.03.1944. Epub ahead of
+print. PMID: 41933629.
+
+168: Bisignani G, Cheung JW, Rordorf R, Kutyifa V, Hofer D, Berti D, Di Biase L,
+Martens E, Russo V, Vitillo P, Zoutendijk M, Deneke T, Köhler I, Schrader J,
+Upadhyay G. Implantable cardiac monitors: artificial intelligence and signal
+processing reduce remote ECG review workload and preserve arrhythmia detection
+sensitivity. Front Cardiovasc Med. 2024 Jan 23;11:1343424. doi:
+10.3389/fcvm.2024.1343424. PMID: 38322767; PMCID: PMC10844377.
+
+169: Nazir A, Nazir A, Shah Wali Jamal M, Sadiq SUR, Aman S, Mustapha MJ, Lawal
+SO, AbdulKareem MO, Bamigbola MF. Wearable Technology and Its Potential Role in
+Cardiovascular Health Monitoring and Disease Management. Health Sci Rep. 2025
+Nov 19;8(11):e71486. doi: 10.1002/hsr2.71486. PMID: 41281160; PMCID:
+PMC12630551.
+
+170: Macierzanka K, Sau A, Patlatzoglou K, Pastika L, Sieliwonczyk E, Gurnani M,
+Peters NS, Waks JW, Kramer DB, Ng FS. Siamese neural network-enhanced
+electrocardiography can re-identify anonymized healthcare data. Eur Heart J
+Digit Health. 2025 Feb 25;6(3):417-426. doi: 10.1093/ehjdh/ztaf011. PMID:
+40395429; PMCID: PMC12088719.
+
+171: Dor-Haim H, Katzburg S, Leibowitz D. A Novel Digital Platform for a
+Monitored Home-based Cardiac Rehabilitation Program. J Vis Exp. 2019 Apr
+19;(146). doi: 10.3791/59019. PMID: 31058908.
+
+172: Chow JSF, Maurya N, San Miguel S, Teramayi R, Parameswaran A, D'Souza A,
+Melbourne G, Descallar J, Juhn Y, Chan E, Pong J. Remote, smart telemonitoring
+of COVID-19 survivors for early detection of deterioration in cardiac health
+(the PARTMO study). Front Med Technol. 2025 Jul 24;7:1534097. doi:
+10.3389/fmedt.2025.1534097. PMID: 40778199; PMCID: PMC12328397.
+
+173: Yang IN, Liu CF, Chien CC, Wang HY, Wang JJ, Shen YT, Chen CC. Personalized
+prediction of intradialytic hypotension in clinical practice: Development and
+evaluation of a novel AI dashboard incorporating risk factors from previous and
+current dialysis sessions. Int J Med Inform. 2024 Oct;190:105538. doi:
+10.1016/j.ijmedinf.2024.105538. Epub 2024 Jul 3. PMID: 38968689.
+
+174: Semiz B, Hersek S, Pouyan MB, Partida C, Blazquez-Arroyo L, Selby V,
+Wieselthaler G, Rehg JM, Klein L, Inan OT. Detecting Suspected Pump Thrombosis
+in Left Ventricular Assist Devices via Acoustic Analysis. IEEE J Biomed Health
+Inform. 2020 Jul;24(7):1899-1906. doi: 10.1109/JBHI.2020.2966178. Epub 2020 Jan
+13. PMID: 31940570; PMCID: PMC7380556.
+
+175: Kwon S, Hong J, Choi EK, Lee B, Baik C, Lee E, Jeong ER, Koo BK, Oh S, Yi
+Y. Detection of Atrial Fibrillation Using a Ring-Type Wearable Device
+(CardioTracker) and Deep Learning Analysis of Photoplethysmography Signals:
+Prospective Observational Proof-of-Concept Study. J Med Internet Res. 2020 May
+21;22(5):e16443. doi: 10.2196/16443. PMID: 32348254; PMCID: PMC7273241.
+
+176: Matthiesen S, Diederichsen SZ, Hansen MKH, Villumsen C, Lassen MCH,
+Jacobsen PK, Risum N, Winkel BG, Philbert BT, Svendsen JH, Andersen TO.
+Clinician Preimplementation Perspectives of a Decision-Support Tool for the
+Prediction of Cardiac Arrhythmia Based on Machine Learning: Near-Live
+Feasibility and Qualitative Study. JMIR Hum Factors. 2021 Nov 26;8(4):e26964.
+doi: 10.2196/26964. PMID: 34842528; PMCID: PMC8665383.
+
+177: Baseman C, Fayfman M, Schechter MC, Ostadabbas S, Santamarina G, Ploetz T,
+Arriaga RI. Intelligent Care Management for Diabetic Foot Ulcers: A Scoping
+Review of Computer Vision and Machine Learning Techniques and Applications. J
+Diabetes Sci Technol. 2025 May;19(3):820-829. doi: 10.1177/19322968231213378.
+Epub 2023 Nov 12. PMID: 37953531; PMCID: PMC12035181.
+
+178: Sadiq I, Qureshi HN, Rizwan A, Imran A. Cardiac Arrhythmia Classification
+From Lead I ECG Recorded in a Free-Living Environment. IEEE J Biomed Health
+Inform. 2025 Nov 19;PP. doi: 10.1109/JBHI.2025.3634307. Epub ahead of print.
+PMID: 41259171.
+
+179: Tran HH, Thu A, Twayana AR, Fuertes A, Gonzalez M, Basta M, James M,
+Frishman WH, Aronow WS. The Role of Generative Artificial Intelligence and Large
+Language Models in Atrial Fibrillation: Clinical Research and Decision Support.
+Cardiol Rev. 2025 Sep 10. doi: 10.1097/CRD.0000000000001042. Epub ahead of
+print. PMID: 40930127.
+
+180: Serban T, Papa A, Badertscher P. Fixing the rhythm in transcatheter aortic
+valve implantation patients: can we reduce the need for permanent pacemaker
+implantation? Expert Rev Cardiovasc Ther. 2025 Dec;23(12):785-791. doi:
+10.1080/14779072.2025.2591793. Epub 2025 Nov 23. PMID: 41241967.
+
+181: Juliet S D, J B. Prescriptive analytics decision-making system for
+cardiovascular disease prediction in long COVID patients using advanced
+reinforcement learning algorithms. J Xray Sci Technol. 2025 Sep;33(5):879-900.
+doi: 10.1177/08953996251335115. Epub 2025 May 11. PMID: 40350710.
+
+182: Iyer AA, Umadevi KS. Design and analysis of TwinCardio framework to detect
+and monitor cardiovascular diseases using digital twin and deep neural network.
+Sci Rep. 2025 Jul 8;15(1):24376. doi: 10.1038/s41598-025-08824-3. PMID:
+40628887; PMCID: PMC12238484.
+
+183: Kim JH, Cho EY, Choi Y, Won JY, Cheon SH, Kim YA, Lee KB, Kim KJ, Kim HG,
+Sim T. Deep Learning-Based Early Warning Systems in Hospitalized Patients at
+Risk of Code Blue Events and Length of Stay: Retrospective Real-World
+Implementation Study. JMIR Med Inform. 2025 Aug 22;13:e72232. doi:
+10.2196/72232. PMID: 40845828; PMCID: PMC12373407.
+
+184: Raza SH, Norin U, Ogadimma EC, Zaman U, Shah AA, Khan S, Alkahtani HK,
+Alkhowaiter M, Ullah Khan S. Catenation between mHealth application
+advertisements and cardiovascular diseases: moderation of artificial
+intelligence (AI)-enabled internet of things, digital divide, and individual
+trust. BMC Public Health. 2025 Mar 19;25(1):1064. doi:
+10.1186/s12889-025-22082-y. PMID: 40108565; PMCID: PMC11921525.
+
+185: Shakibfar S, Yazdchi M, Aliakbaryhosseinabadi S. Predicting Electrical
+Storm Using Episodes' Parameters from ICD Recorded Data. Annu Int Conf IEEE Eng
+Med Biol Soc. 2019 Jul;2019:4885-4888. doi: 10.1109/EMBC.2019.8857720. PMID:
+31946955.
+
+186: Kouidis IA, Deligiannis P, Theofanous A, Anifanti M, Kouidi E. Technology-
+Enhanced Exercise Training for Cardiometabolic Syndrome: A Scoping Review. J
+Funct Morphol Kinesiol. 2026 Apr 14;11(2):153. doi: 10.3390/jfmk11020153. PMID:
+42029521; PMCID: PMC13108096.
+
+187: Cen WW, Liu ZD, Liu JK. TAKD: A Temporal Attention-Based Knowledge
+Distillation Framework for Efficient Multi-Lead ECG Diagnosis. Annu Int Conf
+IEEE Eng Med Biol Soc. 2025 Jul;2025:1-4. doi: 10.1109/EMBC58623.2025.11251878.
+PMID: 41335904.
+
+188: Li J, Alavi R, Dai W, Matthews RV, Kloner RA, Pahlevan NM. Assessment of
+Myocardial Injury Size Metrics Using Carotid Pressure Waveform: Proof-of-Concept
+in Coronary Occlusion/Reperfusion Rat Model. FASEB J. 2025 Sep 15;39(17):e71029.
+doi: 10.1096/fj.202502111R. PMID: 40913426; PMCID: PMC12413657.
+
+189: Zhou C, He C, Lin J, He JH, Dai P, Wang F. Early detection of heart failure
+using trend similarity metrics combined with hybrid deep learning based on real-
+world health monitoring data. J R Soc Interface. 2026 Apr 15;23(237):20250997.
+doi: 10.1098/rsif.2025.0997. PMID: 41980729.
+
+190: Kummer BR, Gerlach A, Kohli S, Willey JZ, Shechter A, Liebeskind DS,
+Nadkarni G. Artificial intelligence to predict modified rankin score after acute
+stroke symptoms using wrist-worn triaxial accelerometry data. J Stroke
+Cerebrovasc Dis. 2026 Jan;35(1):108508. doi:
+10.1016/j.jstrokecerebrovasdis.2025.108508. Epub 2025 Nov 27. PMID: 41317816.
+
+191: Gracy GA, Pravin SC. A lightweight residual dilated temporal transformer
+block for ECG classification on edge devices. Sci Rep. 2026 Feb 13;16(1):8834.
+doi: 10.1038/s41598-026-35531-4. PMID: 41680225; PMCID: PMC12982742.
+
+192: Rantula OA, Lipponen JA, Halonen J, Jäntti H, Rissanen TT, Tarvainen MP,
+Naukkarinen NS, Seljola ES, Santala OE, Sedha J, Martikainen TJ, Hartikainen
+JEK. A Deep Neural Network for Interpreting Wearable Electrocardiogram Data in
+Atrial Fibrillation: Prospective Observational Diagnostic Accuracy Study. JMIR
+Mhealth Uhealth. 2026 Apr 23;14:e82475. doi: 10.2196/82475. PMID: 42024548;
+PMCID: PMC13105234.
