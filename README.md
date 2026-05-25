@@ -24,7 +24,7 @@ The bibliographic references were identified from the following sources:
 
 PubMed: 749 initially identified records;
 Scopus: 192 initially identified records;
-Other sources: 3 additional records added later.
+Other sources: 2 additional records added later.
 Search Strategies
 
 The searches were conducted using queries targeting cardiovascular diseases, artificial intelligence approaches, and patient monitoring.
@@ -78,12 +78,12 @@ application of inclusion and exclusion criteria;
 relevance scoring of articles;
 retention of selected articles for evaluation and reading;
 full-text review and final selection;
-addition of 3 supplementary references from other sources.
+addition of 2 supplementary references from other sources.
 PRISMA Summary
 
 A total of 941 records were identified from the main databases, including 192 from PubMed and 749 from Scopus.
 
-After merging, 123 duplicates were identified, reducing the dataset to 818 records. The application of inclusion and exclusion criteria led to the removal of 730 records and the retention of 88 articles for screening. After full-text review, 39 articles were included. Three additional articles from other sources were added, resulting in a final corpus of 42 studies included in the review.
+After merging, 123 duplicates were identified, reducing the dataset to 818 records. The application of inclusion and exclusion criteria led to the removal of 730 records and the retention of 88 articles for screening. After full-text review, 39 articles were included. Two additional articles from other sources were added, resulting in a final corpus of 41 studies included in the review.
 
 Project Structure
 Python Scripts
